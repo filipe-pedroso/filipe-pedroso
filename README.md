@@ -29,4 +29,4 @@
     <a href = "mailto:filipebruhnspedroso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-<!--   ![Snake animation](https://github.com/filipe-pedroso/filipe-pedroso/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/filipe-pedroso/filipe-pedroso/blob/output/github-contribution-grid-snake.svg)
