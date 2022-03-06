@@ -1,7 +1,7 @@
 ### Olá, meu nome é Filipe
 
 - 🔭 Atualmente estagiando na área de TI, com Digital Signage.
-- 🌱 Estudando Ciências da Computação no Centro Universitário FEI
+- 🌱 Estudando Ciências da Computação no Centro Universitário FEI.
 
 <div align="center">
   <a href="https://github.com/filipe-pedroso">
