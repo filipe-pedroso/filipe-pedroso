@@ -1,6 +1,6 @@
 ### Olá, meu nome é Filipe
 
-- 🔭 Atualmente estagiando com a linguagem Java no Itaú Unibanco.
+- 🔭 Atualmente atuando como Anl. Engenharia de TI no Itaú Unibanco.
 - 🌱 Estudando Ciências da Computação no Centro Universitário FEI.
 
 <div align="center">
